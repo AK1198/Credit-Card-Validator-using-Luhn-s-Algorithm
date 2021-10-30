@@ -1,7 +1,9 @@
 # Credit-Card-Validator-using-Luhn-Algorithm
 
 Credit Card Validation Using Luhn Algorithm
-           Arulkumaran
+          
+          Arulkumaran
+            
             Oct 2021
            
    
