@@ -14,4 +14,4 @@ Luhn Algorithm, or Modulus 10 Algorithm, is a mathematical formula that helps to
 credit card is valid
 
 ### Limitations of the Luhn Algorithm
-One major limitation is that the Luhn Algorithm can only detect single digit errors, including transpositions of adjacent numbers.What this means is, in the case of a 0 – 9 digit set, transpositions of the ‘09’ to ‘90’ or vice versa won’t be detected by the Luhn Algorithm.
++ can only detect single digit errors, including transpositions of adjacent numbers.What this means is, in the case of a 0 – 9 digit set, transpositions of the ‘09’ to ‘90’ or vice versa won’t be detected by the Luhn Algorithm.
